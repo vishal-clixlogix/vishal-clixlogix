@@ -22,7 +22,7 @@ I’m interested in designing solutions, Architect the project and provide techn
 </br>
 </br>
 <b>Tech Stack and Expertise</b></br>
-Expertise: HTML, CSS, SCSS, Javascript,
+Expertise: HTML, Css, Scs, Sass, Jquery Javascript, Wordpress, Photoshop, React Js, Next.Js, gatsby js,
 </br>
 </br>
 
